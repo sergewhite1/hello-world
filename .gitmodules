@@ -1,0 +1,3 @@
+[submodule "stl-iterators-training"]
+	path = stl-iterators-training
+	url = https://github.com/sergewhite1/stl-iterators-training.git
